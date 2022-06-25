@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/guessing-game/guessing-game/bin/Debug/net6.0/guessing-game
+/Users/elijahamoako/Projects/guessing-game/guessing-game/bin/Debug/net6.0/guessing-game.deps.json
+/Users/elijahamoako/Projects/guessing-game/guessing-game/bin/Debug/net6.0/guessing-game.runtimeconfig.json
+/Users/elijahamoako/Projects/guessing-game/guessing-game/bin/Debug/net6.0/guessing-game.dll
+/Users/elijahamoako/Projects/guessing-game/guessing-game/bin/Debug/net6.0/guessing-game.pdb
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.AssemblyInfo.cs
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.dll
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/refint/guessing-game.dll
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.pdb
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/guessing-game.genruntimeconfig.cache
+/Users/elijahamoako/Projects/guessing-game/guessing-game/obj/Debug/net6.0/ref/guessing-game.dll
